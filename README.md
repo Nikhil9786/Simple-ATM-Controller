@@ -36,8 +36,8 @@ python3 Simple-ATM-Controller.py
 
 **Flow of the program**
 
-1. Please inser your card - here you will enter the account number i.e. 123456789
+1. Please insert your card - here you will enter the account number i.e. 123456789
 2. pin - 1234
 3. Chose between the account checking or savings
-4. Chose your action - LEave/See Balance/Withdraw/Deposit (these ara case sensitive)
+4. Chose your action - Leave/See Balance/Withdraw/Deposit (these are case sensitive)
 5. After you leave it will show if the test cases passed or failed

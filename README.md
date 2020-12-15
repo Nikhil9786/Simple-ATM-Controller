@@ -24,7 +24,7 @@ It consists of two classes and a main function
   * call function is defined to check the functionality of the controller which is very useful for testing
   * for call function user input is required.
  
-* Main Funciton
+* Main Function
   * This functions generated a simple controller where if your run the code it will follow the flow as explained below in flow part of the read me file
   * After the controller functions are defined, some test cases are also defined
   * Different bank and controller for it can be created by invoking their constructor

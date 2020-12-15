@@ -6,6 +6,11 @@ Aim of the project was to build a simple ATM controller which can perform basic 
 
 **Python version - 3.7.2
 
+There is only one file Simple-ATM-Controller.py
+It consists of three classes
+
+**Code Details**
+
 **Running the program**
 
 python3 Simple-ATM-Controller.py

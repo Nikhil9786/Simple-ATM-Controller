@@ -14,7 +14,7 @@ It consists of two classes and a main function
   * contains bank generator
   * cards and pin can be added with add_entry functions
   * update_account is used to update balances
-  * check_pin checks the if the pin is corrct or not
+  * check_pin checks the if the pin is correct or not
 
 * Class ATM_Controller
   * containst a function which constructs bank obj and cash bin
